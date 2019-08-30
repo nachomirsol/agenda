@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://nachal123:nachal123@agenda-jikqx.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://nachal123:nachal123@agenda-jikqx.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
